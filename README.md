@@ -12,7 +12,7 @@ Based on teaching R online in India.
 - Basic R http://rpubs.com/ajaydecis/basicR
 - Data Input http://rpubs.com/ajaydecis/datainput 
 - Basics of Data Analysis  http://rpubs.com/ajaydecis/datainput2
--  Memory Management Basics https://rpubs.com/ajaydecis/
+-  Memory Management Basics https://rpubs.com/ajaydecis/memory101
 
 
 ## Data Manipulation
