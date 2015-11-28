@@ -29,7 +29,7 @@ More Data Quality http://rpubs.com/ajaydecis/dataquality2
 - 4 Group By Query http://rpubs.com/ajaydecis/groupby
 - 5 Data Table http://rpubs.com/ajaydecis/datatable and http://rpubs.com/ajaydecis/80459
 
-## Data Visulization
+## Data Visualization
 - 1 Basic Data Viz http://rpubs.com/ajaydecis/basicRdataviz
 - 2 Basic Plots http://rpubs.com/ajaydecis/basic-plots
 
