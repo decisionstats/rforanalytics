@@ -13,6 +13,7 @@ Based on teaching R online in India.
 - Data Input http://rpubs.com/ajaydecis/datainput 
 - Basics of Data Analysis  http://rpubs.com/ajaydecis/datainput2
 -  Memory Management Basics https://rpubs.com/ajaydecis/memory101
+-  Comparing Data Tables ( also a Github request tutorial) http://rpubs.com/ajaydecis/datainputcompared
 
 
 ## Data Manipulation
