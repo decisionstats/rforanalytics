@@ -15,6 +15,7 @@ Based on teaching R online in India.
 -  Memory Management Basics https://rpubs.com/ajaydecis/memory101
 -  Comparing Data Tables ( also a Github request tutorial) http://rpubs.com/ajaydecis/datainputcompared
 -  My new edit http://rpubs.com/ajaydecis/datainputcompared
+-  Vinod's edit http://rpubs.com/vinodpulluru/datatableswithR
 
 
 ## Data Manipulation
