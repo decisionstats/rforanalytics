@@ -10,6 +10,7 @@ Based on teaching R online in India.
 ##Introduction to R
 - Class 1 http://rpubs.com/ajaydecis/class1
 - Basic R http://rpubs.com/ajaydecis/basicR
+- For Loops and Functions http://rpubs.com/ajaydecis/forfunctions
 - Data Input http://rpubs.com/ajaydecis/datainput 
 - Basics of Data Analysis  http://rpubs.com/ajaydecis/datainput2
 -  Memory Management Basics https://rpubs.com/ajaydecis/memory101
