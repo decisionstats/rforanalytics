@@ -32,7 +32,7 @@ Data Grepping http://rpubs.com/ajaydecis/datamunging
 Data Quality http://rpubs.com/ajaydecis/dataquality
 More Data Quality http://rpubs.com/ajaydecis/dataquality2
 -   Group By Query http://rpubs.com/ajaydecis/groupby
--   Data Table http://rpubs.com/ajaydecis/datatable and http://rpubs.com/ajaydecis/80459
+-   Data Table http://rpubs.com/ajaydecis/datatable and http://rpubs.com/ajaydecis/80459 and http://rpubs.com/newajay/datatableexplained
 
 ## Data Visualization
 -   Basic Data Viz http://rpubs.com/ajaydecis/basicRdataviz
