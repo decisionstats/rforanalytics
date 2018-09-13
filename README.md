@@ -18,6 +18,9 @@ Based on teaching R online in India.
 -  My new edit http://rpubs.com/ajaydecis/datainputcompared
 -  Girish Edit - http://rpubs.com/girishkumar1985/datainputcompared
 
+## New Intro to R 
+http://rpubs.com/newajay/IntrotoR
+
 
 ## Data Manipulation
 -   String Manipulation 
